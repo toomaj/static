@@ -1,0 +1,2 @@
+# static
+Public Static Files
